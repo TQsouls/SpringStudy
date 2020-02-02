@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Spring-07-appconfig" />
+        <module name="Spring-03-ioc2" />
+        <module name="Spring-06-anno" />
+        <module name="Spring-05-Aotowrite" />
+        <module name="spring-02-hello" />
+        <module name="Spring-1-ioc1" />
+        <module name="spring-04-di" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
